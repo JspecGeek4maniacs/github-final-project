@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # Julio Gouveia JspecGeek4maniacs 
 
    # Input:
    # p, principal amount
